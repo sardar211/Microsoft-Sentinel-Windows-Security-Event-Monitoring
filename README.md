@@ -79,7 +79,11 @@ SecurityEvent
 | Alert Triggered                                  |![alert1.png](screenshots/alert1.png) |
 | Dashboard View                                   |![dashboard1.png](screenshots/dashboard1.png) |
 
+---
+## 📽️ Project Walkthrough
 
+Watch the full project demo on YouTube:  
+🔗 [https://youtu.be/nBYsPf2rJEA](https://youtu.be/nBYsPf2rJEA)
 
 ---
 
