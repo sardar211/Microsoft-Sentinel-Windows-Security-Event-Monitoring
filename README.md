@@ -70,12 +70,13 @@ SecurityEvent
 
 ## 📸 Screenshots
 
-| Description             | Screenshot                     |
-|-------------------------|--------------------------------|
-| Log Query in Sentinel   | [logs-query.png](screenshots/logs-query.png) |
-| Analytics Rule Setup    | [analytics-rule.png](screenshots/analytics-rule.png) |
-| Alert Triggered         | [alert.png](screenshots/alert.png) |
-| Dashboard View          | [dashboard.png](screenshots/dashboard.png) |
+| Description                                      | Screenshot                     |
+|--------------------------------------------------|--------------------------------|
+| Detect Failed Login Attempts (Analytics Rule)    | [Detect Failed Login Attempts (Analytics Rule).png](screenshots/Detect Failed Login Attempts (Analytics Rule).png) |
+| Log Query in Sentinel                            | [logs-query.png](screenshots/logs-query.png) |
+| Analytics Rule Setup                             | [analytics-rule.png](screenshots/analytics-rule.png) |
+| Alert Triggered                                  | [alert.png](screenshots/alert.png) |
+| Dashboard View                                   | [dashboard.png](screenshots/dashboard.png) |
 
 ---
 
