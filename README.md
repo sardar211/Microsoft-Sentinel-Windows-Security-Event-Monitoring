@@ -92,10 +92,13 @@ Microsoft-Sentinel-FailedLogin-Detection/
 ├── queries/
 │   └── FailedLoginQuery.kql
 ├── screenshots/
-│   ├── logs-query.png
-│   ├── analytics-rule.png
-│   ├── alert.png
-│   └── dashboard.png
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   ├── alert1.png
+│   ├── dashboard1.png
+│   ├── temp.gif
+│   └── yt1.png
 ```
 
 ---
