@@ -76,11 +76,10 @@ SecurityEvent
 | Visualize Failed Logins Over Time                |![Query Output](screenshots/2.png) |
 | Table View of Failed Logins                      |![Query Output](screenshots/3.png) |
 | Log Query in Sentinel                            | [logs-query.png](screenshots/logs-query.png) |
-| Analytics Rule Setup                             | [temp.gif](screenshots/temp.gif) |
+| Analytics Rule Setup                             | [![Watch the Demo](screenshots/yt.png)](https://youtu.be/_uIQbRGGcY4) |
 | Alert Triggered                                  | [alert.png](screenshots/alert.png) |
 | Dashboard View                                   | [dashboard.png](screenshots/dashboard.png) |
 
-[![Watch the Demo](screenshots/yt.png)](https://youtu.be/_uIQbRGGcY4)
 
 
 ---
