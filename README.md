@@ -80,6 +80,9 @@ SecurityEvent
 | Alert Triggered                                  | [alert.png](screenshots/alert.png) |
 | Dashboard View                                   | [dashboard.png](screenshots/dashboard.png) |
 
+[![Watch the Demo](screenshots/yt.png)](https://youtu.be/_uIQbRGGcY4)
+
+
 ---
 
 ## 📁 Project Structure
