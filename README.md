@@ -78,7 +78,7 @@ SecurityEvent
 | Log Query in Sentinel                            | [logs-query.png](screenshots/logs-query.png) |
 | Analytics Rule Setup                             | [![Watch the Demo](screenshots/yt1.png)](https://youtu.be/_uIQbRGGcY4) |
 | Alert Triggered                                  |![alert1.png](screenshots/alert1.png) |
-| Dashboard View                                   |![dashboard1.png](screenshots/dashboard11.png) |
+| Dashboard View                                   |![dashboard1.png](screenshots/dashboard1.png) |
 
 
 
