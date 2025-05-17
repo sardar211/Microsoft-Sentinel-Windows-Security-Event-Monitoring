@@ -75,7 +75,6 @@ SecurityEvent
 | Detect Failed Login Attempts (Analytics Rule)    |![Query Output](screenshots/1.png) |
 | Visualize Failed Logins Over Time                |![Query Output](screenshots/2.png) |
 | Table View of Failed Logins                      |![Query Output](screenshots/3.png) |
-| Log Query in Sentinel                            | [logs-query.png](screenshots/logs-query.png) |
 | Analytics Rule Setup                             | [![Watch the Demo](screenshots/yt1.png)](https://youtu.be/_uIQbRGGcY4) |
 | Alert Triggered                                  |![alert1.png](screenshots/alert1.png) |
 | Dashboard View                                   |![dashboard1.png](screenshots/dashboard1.png) |
